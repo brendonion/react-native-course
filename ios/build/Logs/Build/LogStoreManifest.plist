@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>82CE05E4-2A3D-4FBA-9282-70211C78D3CA</key>
+		<key>FA76BCC6-703B-47D5-B1BE-DE33D7B2B36D</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>82CE05E4-2A3D-4FBA-9282-70211C78D3CA.xcactivitylog</string>
+			<string>FA76BCC6-703B-47D5-B1BE-DE33D7B2B36D.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,13 @@
 			<key>signature</key>
 			<string>Building project reactnativecourse with scheme reactnativecourse and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>566357208.14157295</real>
+			<real>566358272.28506696</real>
 			<key>timeStoppedRecording</key>
-			<real>566357231.47087502</real>
+			<real>566358305.05168295</real>
 			<key>title</key>
 			<string>Building project reactnativecourse with scheme reactnativecourse and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>82CE05E4-2A3D-4FBA-9282-70211C78D3CA</string>
+			<string>FA76BCC6-703B-47D5-B1BE-DE33D7B2B36D</string>
 		</dict>
 	</dict>
 </dict>
