@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6b135dfa6ad25bdc8ea2be283438a8e35bd20a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -84,15 +93,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_114079d902661811f1a53004f1fd608e314a31a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -138,21 +138,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_644df3dc793c074f6d15095bc01e85e660783603.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_eb85fd5e0ac7f7e62b30e9fc4e4166481e386973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_546e7838a16b2b9c9b47da773a7ffff7259ce172.jar" />
     </item>
     <item
         is-multidex="false"

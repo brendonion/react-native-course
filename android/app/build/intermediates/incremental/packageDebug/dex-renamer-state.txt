@@ -1,4 +1,4 @@
-#Wed Dec 12 11:46:17 PST 2018
+#Wed Dec 12 17:26:21 PST 2018
 base.0=/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/macbook/Projects/Web/react-native-tutorial/react-native-course/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
