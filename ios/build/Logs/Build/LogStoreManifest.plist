@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>C20BCD11-B6D6-4E34-B6D0-EA4F7DF84090</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C20BCD11-B6D6-4E34-B6D0-EA4F7DF84090.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>reactnativecourse project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>reactnativecourse</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project reactnativecourse with scheme reactnativecourse and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566419567.18209302</real>
+			<key>timeStoppedRecording</key>
+			<real>566419596.08520401</real>
+			<key>title</key>
+			<string>Building project reactnativecourse with scheme reactnativecourse and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C20BCD11-B6D6-4E34-B6D0-EA4F7DF84090</string>
+		</dict>
 		<key>FA76BCC6-703B-47D5-B1BE-DE33D7B2B36D</key>
 		<dict>
 			<key>className</key>
