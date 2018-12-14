@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "~0.55.2"
+    "react-native": "~0.55.2",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
   },
   "devDependencies": {
     "@types/jest": "^22.2.3",
